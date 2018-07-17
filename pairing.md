@@ -1,6 +1,6 @@
 % Pairing
 % Jakob Holderbaum
-% https://holderbaum.io/
+% https://github.com/holderbaum/pairing
 
 # What is Pairing?
 
