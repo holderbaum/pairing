@@ -6,4 +6,4 @@ To build it, simply run:
 ./do build
 ```
 
-The build process needs a running [pandoc][https://pandoc.org/] installation.
+The build process needs a running [pandoc](https://pandoc.org/) installation.
