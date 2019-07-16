@@ -9,6 +9,7 @@ task_usage() {
 
 task_build() {
   pandoc -t beamer pairing.md -V theme=Pittsburgh -o slides.pdf
+  pandoc -V handout -t beamer pairing.md -V theme=Pittsburgh -o handout.pdf
 }
 
 cmd="${1:-}"
